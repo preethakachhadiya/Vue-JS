@@ -1,3 +1,6 @@
 [submodule "Task"]
 	path = Task
 	url = https://github.com/preethakachhadiya/Vue-JS.git
+[submodule "Task Assigned Projects/forms_and_components"]
+	path = Task Assigned Projects/forms_and_components
+	url = https://github.com/preethakachhadiya/Vue-JS.git
